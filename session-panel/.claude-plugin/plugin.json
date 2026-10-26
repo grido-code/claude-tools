@@ -1,1 +1,7 @@
-
+{
+  "name": "session-panel",
+  "version": "0.2.1",
+  "description": "세션 패널: 컨텍스트·토큰·한도 그래프, MCP·스킬 목록, 턴마다 사용량을 월별 CSV로 기록",
+  "author": { "name": "kim donguk" },
+  "types": "./types/index.d.ts"
+}
