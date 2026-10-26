@@ -1,1 +1,12 @@
-
+{
+  "name": "claude-tools",
+  "owner": { "name": "kim donguk" },
+  "description": "kim donguk이 Claude로 만든 도구 모음",
+  "plugins": [
+    {
+      "name": "session-panel",
+      "source": "./session-panel",
+      "description": "세션 패널: 컨텍스트·토큰·한도 그래프, MCP·스킬 목록, 턴마다 사용량을 월별 CSV로 기록"
+    }
+  ]
+}
